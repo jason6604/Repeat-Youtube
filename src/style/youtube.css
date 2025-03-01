@@ -1,0 +1,23 @@
+h3 {
+    color: white;
+    font-style: italic;
+    font-size: 2rem;
+    font-weight: bolder;
+}
+
+.youtube-container {
+    background-color: black;
+}
+
+.searcharea {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.input-url {
+    width: 370px;
+}
+
+.search-button {
+    margin-left: 15px;
+}
